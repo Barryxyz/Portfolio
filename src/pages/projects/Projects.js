@@ -9,6 +9,7 @@ import { projectsHeader } from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
+import { projects } from "../../portfolio.js";
 
 class Projects extends Component {
   render() {
@@ -44,8 +45,9 @@ class Projects extends Component {
           </Fade>
         </div>
         <div className="repo-cards-div-main">
-          {ProjectsData.data.map((repo) => {
-            return <GithubRepoCard repo={repo} theme={theme} />;
+          {projects.projects.map((project) => {
+            // return <div>{project.name}</div>
+            return <GithubRepoCard repo={project} />;
           })}
         </div>
         <Button
