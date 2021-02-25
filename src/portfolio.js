@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Barry Chin",
   logo_name: "BarryChin",
-  nickname: "layman_brother",
+  nickname: "",
   subTitle:
     "Full Stack development enthusiast that aims to innovate and bring in fresh and dynamic ideas in bridging technology with everyday life.",
   resumeLink:
@@ -241,7 +241,7 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Full Stack Software Eingineer Intern",
+          title: "Full Stack Software Engineer Intern",
           company: "Roam",
           company_url: "https://www.delhivery.com/",
           logo_path: "roam.png",
