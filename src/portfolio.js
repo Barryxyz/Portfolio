@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Barry Chin Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://barryxyz.github.io/",
   },
 };
 
