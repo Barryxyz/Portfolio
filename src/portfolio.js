@@ -291,7 +291,7 @@ const projectsHeader = {
 const projects = {
   projects: [
     {
-      url: "google.com",
+      url: "",
       name: "r/wallstreetbets Trend Finder",
       description:
         "Web app that displays the frequency of stock ticker symbols within the subreddit",
@@ -321,7 +321,7 @@ const projects = {
       languages: [{ name: "Swift", iconifyClass: "logos-swift" }],
     },
     {
-      url: "google.com",
+      url: "",
       name: "WatchList App",
       description:
         "React Native app that manages a checkable list of movies/shows and functions as a browser using the OMDI API",
@@ -353,7 +353,7 @@ const projects = {
       ],
     },
     {
-      url: "google.com",
+      url: "",
       name: "Endless Wave Shooter Game",
       description:
         "3rd person shooter python game in which the player(s) shoot down endless waves of llamas",
