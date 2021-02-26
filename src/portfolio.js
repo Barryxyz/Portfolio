@@ -192,7 +192,8 @@ const degrees = {
       descriptions: [
         "- Studied software engineering fundamentals like Data Structures and Algorithmns, Computer Architecture, Software Methodology, and Databases.",
         "- Dived deep into sub-fields such as Cloud Computing, Mobile Applications, and Human Computer Interactions.",
-        "- Developed a foundation in Macroeconomics, Microeconomics, Competitive Market Advantage Theories, and in analyzing and creating regressions from Econometrics.",
+        "- Developed a foundation in Macroeconomics, Microeconomics, and Competitive Market Advantage Theories.",
+        "- Practiced deep analysis and created regressions in Econometrics and learned fundamentals in Statistical Analysis.",
         "- Received the University Achievement Award, which gives a Full-Ride to the recipients who demonstrate outstanding leadership and character while overcoming personal hardships.",
       ],
     },
