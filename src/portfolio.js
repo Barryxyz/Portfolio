@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Full Stack development enthusiast that aims to innovate and bring in fresh and dynamic ideas in bridging technology with everyday life.",
   resumeLink:
-    "https://drive.google.com/file/d/1E3r68mUAGBspgeyk_pU9VStmgNfhgs6k/view?usp=sharing",
+    "https://drive.google.com/file/d/1FAmd5WqA2MznMRodATKcfzb8KObYFpw6/view?usp=sharing",
   portfolio_repository: "https://github.com/barryxyz",
 };
 
