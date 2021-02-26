@@ -30,7 +30,13 @@ class ExperienceCard extends Component {
                 className="experience-card-company"
                 style={{ color: theme.text }}
               >
-                <a>{experience["company"]}</a>
+                <a
+                  href={experience["company_url"]}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {experience["company"]}
+                </a>
               </p>
             </div>
             <div className="experience-card-heading-right">

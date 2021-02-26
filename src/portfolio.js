@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Full Stack development enthusiast that aims to innovate and bring in fresh and dynamic ideas in bridging technology with everyday life.",
   resumeLink:
-    "https://drive.google.com/file/d/1sffmi_Vwma11ceed7GZGlAKCNzVM3wpH/view?usp=sharing",
+    "https://drive.google.com/file/d/1E3r68mUAGBspgeyk_pU9VStmgNfhgs6k/view?usp=sharing",
   portfolio_repository: "https://github.com/barryxyz",
 };
 
@@ -227,7 +227,7 @@ const experience = {
         {
           title: "Associate Software Developer",
           company: "Freddie Mac",
-          company_url: "https://legatohealthtech.com/",
+          company_url: "http://www.freddiemac.com/",
           logo_path: "freddiemac.png",
           duration: "Jun 2019 - PRESENT",
           location: "McLean, Virginia",
@@ -243,7 +243,7 @@ const experience = {
         {
           title: "Full Stack Software Engineer Intern",
           company: "Roam",
-          company_url: "https://www.delhivery.com/",
+          company_url: "https://www.f6s.com/roamllc",
           logo_path: "roam.png",
           duration: "Jun 2018 - Jan 2019",
           location: "Charlottesville, Virginia",
@@ -254,6 +254,7 @@ const experience = {
         {
           title: "Technical Intern",
           company: "Radify Labs",
+          company_url: "https://radifylabs.com/",
           logo_path: "radify_labs.png",
           duration: "May 2018 - Aug 2018",
           location: "Charlottesville, Virginia",
@@ -269,11 +270,12 @@ const experience = {
         {
           title: "WebMaster",
           company: "Organization of Young Filipino Americans",
+          company_url: "http://www.oyfaatuva.com/",
           logo_path: "oyfa.jpg",
           duration: "Apr 2018 - Apr 2019",
           location: "Charlottesville, VA",
           description:
-            "Improved the user interface and developed a wireframe for the merchandise page in order to promote sales and club membership as well as incorporated a blog API to increase site traffic. Integrated Google Form API to enhance feedback and collaboration between the organization’s committees.",
+            "Improved the user interface as well as incorporated a blog API to increase site traffic. Integrated Google Form API to enhance feedback and collaboration between the organization’s committees. Link: http://www.oyfaatuva.com/",
           color: "#0879bf",
         },
       ],
